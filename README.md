@@ -32,24 +32,27 @@ Follow these instructions to set up and run the project on your local machine.
    ```shell
    npm install express fs path
 
+4. Run the porgram using API testing tool like Postman
+
+    ```shell
+    https://nodefile-system-ndlt.onrender.com/createFile
+
+     ```shell
+   https://nodefile-system-ndlt.onrender.com/getFile 
+ 
+
 ##Create a text file with a timestamp as content:
 
  Send a GET request to `/createFile` using your preferred API testing tool (e.g., Postman).
 
  The server will respond with a message indicating whether the file creation was successful and provide the file's path.
 
- ```shell
- https://nodefile-system-ndlt.onrender.com/createFile  
 
 ##Retrieve a list of text files:
 
  Send a GET request to `/getFile`.
 
  The server will respond with a JSON array containing the names of all text files in the output folder.
-
- ```shell
- https://nodefile-system-ndlt.onrender.com/getFile 
-
 
 
 ##Project Structure:
