@@ -29,16 +29,20 @@ Follow these instructions to set up and run the project on your local machine.
    ```shell
    npm init -y
 
+4. Create the project:
+
    ```shell
    npm install express fs path
 
-4. Run the porgram using API testing tool like Postman
+5. Run this to GET request using API testing tool like Postman:
 
     ```shell
     https://nodefile-system-ndlt.onrender.com/createFile
 
+6. Run this to GET request using API testing tool like Postman:
+
      ```shell
-   https://nodefile-system-ndlt.onrender.com/getFile 
+     https://nodefile-system-ndlt.onrender.com/getFile 
  
 
 ##Create a text file with a timestamp as content:
