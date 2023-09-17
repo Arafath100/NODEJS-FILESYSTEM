@@ -11,6 +11,10 @@ This is a simple Node.js API project that allows you to create text files with t
     ```bash
     https://documenter.getpostman.com/view/28864237/2s9YC7SX5i
 
+## Direct access:
+
+   -Click Here  [https://documenter.getpostman.com/view/28864237/2s9YC7SX5i](https://documenter.getpostman.com/view/28864237/2s9YC7SX5i)
+
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
