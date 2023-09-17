@@ -7,13 +7,8 @@ This is a simple Node.js API project that allows you to create text files with t
 # API Documentation:
 
 ### API documentation in PostMan:
-
-    ```bash
-    https://documenter.getpostman.com/view/28864237/2s9YC7SX5i
-
-## Direct access:
-
-   -Click Here  [https://documenter.getpostman.com/view/28864237/2s9YC7SX5i](https://documenter.getpostman.com/view/28864237/2s9YC7SX5i)
+  
+  - Click Here  [https://documenter.getpostman.com/view/28864237/2s9YC7SX5i](https://documenter.getpostman.com/view/28864237/2s9YC7SX5i)
 
 ## Getting Started
 
