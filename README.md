@@ -4,6 +4,13 @@
 
 This is a simple Node.js API project that allows you to create text files with timestamps as content and retrieve a list of these text files from a specific folder.
 
+# API Documentation:
+
+### API documentation in PostMan:
+
+    ```bash
+    https://documenter.getpostman.com/view/28864237/2s9YC7SX5i
+
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
@@ -50,7 +57,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 **Project Structure:**
 
-- `index.js`: The main server file with the Express application and API endpoints.
+- `server.js`: The main server file with the Express application and API endpoints.
 - `output/`: The folder where text files are created and stored.
 
 **Error Handling:**
